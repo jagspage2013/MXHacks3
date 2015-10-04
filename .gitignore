@@ -1,0 +1,10 @@
+.idea
+/local.properties
+.DS_Store
+/build
+.gradle
+*.iml
+*.apk
+*.class
+/libraryTabs
+/device*

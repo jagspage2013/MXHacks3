@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wippli</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_create_music_zone">Crea tu Zona </string>
+    <string name="title_activity_mi_zone">MiZoneActivity</string>
+</resources>
